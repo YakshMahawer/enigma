@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223024396601",
+    "project_id": "enigma-52a13",
+    "storage_bucket": "enigma-52a13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223024396601:android:aeaed5137c049eed4790e8",
+        "android_client_info": {
+          "package_name": "com.example.app_androids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223024396601-ivr3lnsktt1vj9s3n3j6bs10u6383c0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7aYj72nA_-Ct3523RWiGLb3CJb5h2OqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223024396601-ivr3lnsktt1vj9s3n3j6bs10u6383c0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
